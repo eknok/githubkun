@@ -1,5 +1,6 @@
 require "githubkun/version"
+require 'githubkun/github'
 
 module Githubkun
-  # Your code goes here...
+  
 end
